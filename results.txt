@@ -1,0 +1,18 @@
+Title,Author,Category,PriceNew,PriceUsed
+Winters Promise Mirror Visitor Quartet 01,Christelle Dabos; Hildegarde Serle,Used Trade Paperback,$12.95,$8.95
+The House in the Cerulean Sea,Tj Klune,Used Trade Paperback,$18.99,$13.95
+They Both Die at the End,Adam Silvera,Used Trade Paperback,$12.99,$8.95
+A Court of Thorns and Roses (Court of Thorns and Roses #1),Sarah J. Maas,Used Trade Paperback,$19.00,$13.95
+A Good Girl's Guide to Murder,Holly Jackson,Used Trade Paperback,$10.99,$7.95
+Six of Crows (Six of Crows #1),Leigh Bardugo,Used Trade Paperback,$11.99,$8.95
+Miss Peregrines Home for Peculiar Children,Ransom Riggs,Used Trade Paperback,$14.99,$10.95
+Inheritance Games 01,Jennifer Lynn Barnes,Used Trade Paperback,$10.99,$7.95
+Throne of Glass 01 new cover,Sarah J Maas,Used Trade Paperback,$19.00,$13.95
+The Book Thief,Markus Zusak,Used Trade Paperback,$14.99,$8.95
+Hunger Games 01,Suzanne Collins,Used Trade Paperback,$14.99,$10.95
+The Ballad of Songbirds and Snakes (A Hunger Games Novel),Suzanne Collins,Used Hardcover,$27.99,$19.95
+Arc of a Scythe 01 Scythe,Neal Shusterman,Used Trade Paperback,$13.99,$9.95
+Throne of Glass 03 Heir of Fire new cover,Sarah J Maas,Used Trade Paperback,$19.00,$13.95
+The Graveyard Book,Neil Gaiman,Used Trade Paperback,$10.99,$6.95
+Throne of Glass 02 Crown of Midnight new cover,Sarah J Maas,Used Trade Paperback,$19.00,$13.95
+Throne of Glass 06 Tower of Dawn new cover,Sarah J Maas,Used Trade Paperback,$19.00,$13.95
